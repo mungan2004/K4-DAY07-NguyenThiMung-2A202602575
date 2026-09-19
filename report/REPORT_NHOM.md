@@ -2,7 +2,7 @@
 
 **Nhóm:** Nhóm 4 (AI VinUni)
 **Thành viên:** 
-1. Ngô Gia Quốc (HeadingChunker)
+1. Ngô Gia Quốc - 02757(HeadingChunker)
 2. Nguyễn Hải Đăng - 02963 (FixedSizeChunker)
 3. Nguyễn Thị Mừng - 02575 (RecursiveChunker)
 4. Bùi Thị Ngọc Trân - 2A202602529 (SentenceChunker)
